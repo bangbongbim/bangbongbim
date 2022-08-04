@@ -27,14 +27,16 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
-
+<br/>
 <!-- 
 
 <br/>
 <br/>
 <h3>✨ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬 ✨</h3> -->
-<!-- 
-[![YEOMSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangbongbim&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/bangbongbim/github-readme-stats) -->
+
+
+
+[![bangbongbim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangbongbim&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/bangbongbim/github-readme-stats) 
 <br/>
 <br/>
 
