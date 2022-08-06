@@ -4,11 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=bangbongbim%20GitHub&fontSize=50&animation=fadeIn" />
 
     
+<!--   [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdl1231)](https://solved.ac/dkdpdl1231) -->
+
   <h3>✨ 𝐌𝐚𝐢𝐧 ✨<h3> 
     <p> ғʀᴇǫᴜᴇɴᴛʟʏ ᴜsᴇᴅ </p>
   <img src="https://img.shields.io/badge/React.js-6f1eea?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-6f1eea?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-6f1eea?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-6f1eea?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-6f1eea?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   
 <br/>  
 <br/>
@@ -27,6 +32,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <br/>
 <!-- 
 
@@ -38,9 +45,9 @@
 
 [![bangbongbim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangbongbim&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/bangbongbim/github-readme-stats) 
 <br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangbongbim&layout=compact&theme=vue&title_color=6d0fe8)](https://github.com/bangbongbim/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangbongbim&layout=compact&theme=vue&title_color=6d0fe8)](https://github.com/bangbongbim/github-readme-stats) 
+
   
 
 </div>
