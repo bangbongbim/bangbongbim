@@ -1,11 +1,8 @@
 <div align='center'>
   
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=bangbongbim%20GitHub&fontSize=50&animation=fadeIn" />
-
     
-<!--   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdl1231)](https://solved.ac/dkdpdl1231) -->
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdl1231)](https://solved.ac/dkdpdl1231)
 
   <h3>✨ 𝐌𝐚𝐢𝐧 ✨<h3> 
     <p> ғʀᴇǫᴜᴇɴᴛʟʏ ᴜsᴇᴅ </p>
