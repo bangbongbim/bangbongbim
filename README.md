@@ -4,16 +4,6 @@
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdl1231)](https://solved.ac/dkdpdl1231)
 
-  <h3>✨ 𝐌𝐚𝐢𝐧 ✨<h3> 
-    <p> ғʀᴇǫᴜᴇɴᴛʟʏ ᴜsᴇᴅ </p>
-  <img src="https://img.shields.io/badge/React.js-6f1eea?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-6f1eea?style=flat-square&logo=Node.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-6f1eea?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-6f1eea?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TypeScript-6f1eea?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-  
-<br/>  
-<br/>
   
   <h3>✨ 𝐒𝐤𝐢𝐥𝐥 ✨<h3>
     <p> ᴛᴇᴄʜs ᴛʜᴀᴛ ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ </p>
