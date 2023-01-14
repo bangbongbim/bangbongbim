@@ -6,7 +6,6 @@
 
   
   <h3>✨ 𝐒𝐤𝐢𝐥𝐥 ✨<h3>
-    <p> ᴛᴇᴄʜs ᴛʜᴀᴛ ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ </p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -27,7 +26,6 @@
 <br/>
 <br/>
 <h3>✨ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬 ✨</h3> -->
-
 
 
 [![bangbongbim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangbongbim&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/bangbongbim/github-readme-stats) 
